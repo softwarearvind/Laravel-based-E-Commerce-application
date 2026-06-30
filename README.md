@@ -14,3 +14,6 @@
 
 ### Home
 ![Home](Screenshots/5.png)
+
+### Home
+![Home](Screenshots/6.png)
